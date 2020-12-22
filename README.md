@@ -1,9 +1,19 @@
-## Hi there I´m Javi👋
+# Hi there I´m Javi👋
 
-### Projects
 
-### Contact
-> Quote
+## Projects
+
+## What am I learning now?
+
+## How to contact me?
+- Contact me on my [LinkedIn](https://www.linkedin.com/in/javier-plaza-sisqués-b79367172)
+- Follow me on Instagram
+
+<p align="center">
+  <q>Technology is best when it brings people together.</q>
+  </br>
+  <cite>Matt Mullenweg</cite>
+</p>
 
 <!--
 **JSisques/JSisques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
