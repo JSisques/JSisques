@@ -7,7 +7,6 @@
 
 ## How to contact me?
 - Contact me on my [LinkedIn](https://www.linkedin.com/in/javier-plaza-sisqués-b79367172)
-- Follow me on Instagram
 
 <p align="center">
   <q>Technology is best when it brings people together.</q>
