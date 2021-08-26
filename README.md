@@ -1,4 +1,4 @@
-# Javi Sisqués
+# Javier Plaza Sisqués
 Hi I'm Javi and I'm a technology enthusiast since I can remember it. I love programming and learning new things everyday. I'm from León living in Madrid.
 
 ## 🚀 Projects
