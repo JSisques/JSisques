@@ -22,8 +22,8 @@ Nowadays I'm working at ESCP Businesss School as an IT technician.
 
 ## 💬 My statistics
 <div align=”center”>
-  <img height = "200" src="https://github-readme-stats.vercel.app/api?username=JSisques&theme=dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&theme=dark&layout=compact" />
+  <img height = "150" src="https://github-readme-stats.vercel.app/api?username=JSisques&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&theme=dark&layout=compact" />
 </div>
 
 ## 💬 How to contact me?
