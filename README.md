@@ -1,10 +1,13 @@
 # Javi Sisqués
+Hi I'm Javi and I'm a technology enthusiast since I can remember it. I love programming and learning new things everyday. I'm from León living in Madrid.
 
 ## 🚀 Projects
 
 ## 👨🏼‍🎓 What am I learning now?
+I'm currently studying the first year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of IOS development with Swift.
 
 ## 🧑🏼‍💻 What am I working on now?
+Nowadays I'm working at ESCP Businesss School as an IT technician.
 
 ## 🛠 Favourite tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
@@ -19,8 +22,8 @@
 
 ## 💬 My statistics
 <div align=”center”>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&theme=dark&layout=compact" />
   <img height = "200" src="https://github-readme-stats.vercel.app/api?username=JSisques&theme=dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&theme=dark&layout=compact" />
 </div>
 
 ## 💬 How to contact me?
@@ -34,18 +37,3 @@
   </br>
   <cite>Matt Mullenweg</cite>
 </p>
-
-<!--
-**JSisques/JSisques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
