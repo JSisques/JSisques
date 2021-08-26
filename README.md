@@ -20,7 +20,7 @@ Nowadays I'm working at ESCP Businesss School as an IT technician.
 ![](https://img.shields.io/badge/Gadget-RaspberryPi-informational?style=flat&logo=Raspberrypi&logoColor=white&color=2bbc8a)
 
 
-## 💬 My statistics
+## 💻 My statistics
 <div align=”center”>
   <img height = "175" src="https://github-readme-stats.vercel.app/api?username=JSisques&theme=dark" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&theme=dark&layout=compact" />
