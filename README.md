@@ -21,6 +21,8 @@ Nowadays I'm working at ESCP Businesss School as an IT technician.
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Gadget-RaspberryPi-informational?style=flat&logo=Raspberrypi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-IOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 
 
 ## 💻 My statistics
