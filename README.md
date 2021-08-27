@@ -1,16 +1,16 @@
 
 <img align="center" src="https://github.com/JSisques/JSisques/blob/main/Banner%20RRSS.png"/>
 
-# Javier Plaza Sisqués
-Hi I'm Javi and I'm a technology enthusiast since I can remember it. I love programming and learning new things everyday. I'm from León living in Madrid.
+# 👋🏻 Javier Plaza Sisqués
+Hi I'm Javi, I'm a 22 years old and I'm from León (Spain). Since I can remember I always had a computer under my arm and I've always been a technology enthusiast. I love learning new things and developing apps and programms to help other people around the world.
 
 <!-- ## 🚀 Projects -->
 
-## 👨🏼‍🎓 What am I learning now?
-I'm currently studying the first year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of IOS development with Swift.
+## 👨🏼‍🎓 What am I learning/studying now?
+I'm currently studying the first year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of IOS development with Swift at Udemy platform.
 
 ## 🧑🏼‍💻 What am I working on now?
-Nowadays I'm working at ESCP Businesss School as an IT technician.
+Nowadays I'm working at ESCP Businesss School as an IT technician. Apart of that I´m working on an app which collect info around the beaches in my country (Spain) and informs people about the current state of them.
 
 ## 🛠 Favourite tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
