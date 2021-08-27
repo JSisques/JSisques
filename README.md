@@ -33,7 +33,7 @@ Nowadays I'm working at ESCP Businesss School as an IT technician. Apart of that
 
 ## 💬 How to contact me?
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/javier-plaza-sisqués-b79367172)
-- [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](javierplazasisques@gmail.com)
+- [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:javierplazasisques@gmail.com)
 
 
 
