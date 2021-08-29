@@ -23,6 +23,9 @@ Nowadays I'm working at ESCP Businesss School as an IT technician. Apart of that
 ![](https://img.shields.io/badge/Gadget-RaspberryPi-informational?style=flat&logo=Raspberrypi&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/OS-IOS-informational?style=flat&logo=Apple&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=Apple&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=506ad4)
 
 
 ## 💻 My statistics
