@@ -20,7 +20,7 @@ Nowadays I'm working at ESCP Businesss School as an IT technician. Apart of that
 ![](https://img.shields.io/badge/Gadget-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=506ad4)
-![](https://img.shields.io/badge/Gadget-RaspberryPi-informational?style=flat&logo=Raspberrypi&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Gadget-Raspberry_Pi-informational?style=flat&logo=Raspberrypi&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/OS-IOS-informational?style=flat&logo=Apple&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=Apple&logoColor=white&color=506ad4)
