@@ -12,7 +12,7 @@ I'm currently studying the second year of the degree in computer engineering at 
 ## 🧑🏼‍💻 What am I working on now?
 Nowadays I´m working on an app which collect info around the beaches in my country (Spain) and informs people about the current state of them.
 
-## 💻 Courses that I´ve done?
+## 💻 What courses have I done?
 - IOS & Swift -> https://www.udemy.com/course/swift_ios/
 
 ## 🛠 Favourite tools
