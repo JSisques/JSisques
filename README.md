@@ -7,10 +7,13 @@ Hi I'm Javi, I'm a 22 years old and I'm from León (Spain). Since I can remember
 <!-- ## 🚀 Projects -->
 
 ## 👨🏼‍🎓 What am I learning/studying now?
-I'm currently studying the first year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of IOS development with Swift at Udemy platform.
+I'm currently studying the second year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of Node.js at Udemy platform.
 
 ## 🧑🏼‍💻 What am I working on now?
-Nowadays I'm working at ESCP Businesss School as an IT technician. Apart of that I´m working on an app which collect info around the beaches in my country (Spain) and informs people about the current state of them.
+Nowadays I´m working on an app which collect info around the beaches in my country (Spain) and informs people about the current state of them.
+
+## 💻 Courses that I´ve done?
+- IOS & Swift -> https://www.udemy.com/course/swift_ios/
 
 ## 🛠 Favourite tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=506ad4)
