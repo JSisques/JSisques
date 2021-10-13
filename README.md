@@ -7,9 +7,9 @@ Hi I'm Javi, I'm a 22 years old and I'm from León (Spain). Since I can remember
 <!-- ## 🚀 Projects -->
 
 ## 👨🏼‍🎓 What am I learning/studying now?
-I'm currently studying the second year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of Javascript (Angular, JQuery, Node.js...) at Udemy platform.
+I'm currently studying the second year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of Alexa´s skills and Javascript (Angular, JQuery, Node.js...) at Udemy platform.
 
-## 🧑🏼‍💻 What am I working on now?
+## 💻 What am I working on now?
 Nowadays I´m working on an app which collect info around the beaches in my country (Spain) and informs people about the current state of them.
 
 ## 💻 What courses have I done?
