@@ -14,7 +14,7 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 
 ## 💻 What courses have I done?
 - IOS & Swift -> https://www.udemy.com/course/swift_ios/
-- Swift 5     -> https://www.udemy.com/course/curso-swift-jb/ 
+- Swift 5 -> https://www.udemy.com/course/curso-swift-jb/ 
 
 ## 🛠 Favourite tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=506ad4)
