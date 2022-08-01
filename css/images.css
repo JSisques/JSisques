@@ -1,0 +1,10 @@
+/* VARIABLES */
+:root {
+    --icon-size: 64px;
+    --icon-width: 64px;
+    --profile-img-size: 400px; 
+  }
+
+#profile-picture{
+    width: var(--profile-img-size);
+}
