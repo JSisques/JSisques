@@ -2,9 +2,19 @@
 :root {
     --icon-size: 64px;
     --icon-width: 64px;
-    --profile-img-size: 400px; 
+    --profile-img-size: 600px; 
+    --description-img-size: 200px;
+    --footer-img-size: 64px;
   }
 
 #profile-picture{
     width: var(--profile-img-size);
+}
+
+.image-description{
+  width: var(--description-img-size);
+}
+
+#footer-logo{
+  width: var(--footer-img-size);
 }

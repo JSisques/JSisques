@@ -11,7 +11,7 @@
 nav{
 }
 
-ul{
+#menu{
     position: fixed;
     top: 0;
     width: var(--max-width);
