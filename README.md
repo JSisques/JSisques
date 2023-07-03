@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/JSisques/JSisques/blob/main/Images/Banner%20RRSS.png"/>
 
 # 👋🏻 Javier Plaza Sisqués
-Hi I'm Javi, I'm a 22 years old and I'm from León (Spain). Since I remember I always had a computer under my arm and I've always been a technology enthusiast. I love learning new things and developing apps and programms to help other people around the world.
+Hi I'm Javi, I'm a 24 years old and I'm from León (Spain). Since I remember I always had a computer under my arm and I've always been a technology enthusiast. I love learning new things and developing apps and programms to help other people around the world.
 
 <!-- ## 🚀 Projects -->
 
