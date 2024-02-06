@@ -67,7 +67,7 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jsisques&theme=dark&show_icons=true&locale=en"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsisques&theme=dark&show_icons=true"/>
 
   <img src="https://github-profile-trophy.vercel.app/?username=jsisques&theme=dark"/>
 </div>
