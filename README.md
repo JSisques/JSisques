@@ -64,11 +64,17 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 <div style="text-align:center">
   <img  src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=donut&theme=dark" />
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jsisques&theme=dark&show_icons=true&locale=en"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=jsisques&theme=dark"/>
 </div>
 
 <div style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=jsisques&theme=dark"/>
+  
+    
 </div>
 
 ### GitHub Trophies
