@@ -19,7 +19,7 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 - IOS & Swift -> https://www.udemy.com/course/swift_ios/
 - Swift 5 -> https://www.udemy.com/course/curso-swift-jb/
 
-## 🛠 Favourite tools
+## 🛠 Soft skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=506ad4)
@@ -35,7 +35,7 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=506ad4)
 
-## 💻 My statistics
+## 💻 My GitHub statistics
 
 <div style="text-align:center">
   <img  src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
@@ -50,6 +50,8 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/javier-plaza-sisqués-b79367172)
 - [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:javierplazasisques@gmail.com)
+
+---
 
 <p align="center">
   <q>Technology is best when it brings people together.</q>
