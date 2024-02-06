@@ -35,6 +35,30 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=506ad4)
 
+## 🛠 Hard skills
+
+### Programming Languages
+
+### Backend
+
+### Frontend
+
+### Mobile App Development
+
+### AI/ML
+
+### Database
+
+### Data Visualization
+
+### Devops
+
+### Backend as a Service (BaaS)
+
+### Software
+
+### Other
+
 ## 💻 My GitHub statistics
 
 <div style="text-align:center">
@@ -45,6 +69,8 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 <div style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
 </div>
+
+### GitHub Trophies
 
 ## 💬 How to contact me?
 
