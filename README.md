@@ -38,8 +38,8 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 ## 💻 My statistics
 
 <div style="text-align:center">
-  <img width = "50%" src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=donut&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=donut&theme=dark" />
 </div>
 
 <div style="text-align:center">
