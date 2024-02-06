@@ -43,7 +43,7 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 </div>
 
 <div style="text-align:center">
-  <img height = "260" src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
 </div>
 
 ## 💬 How to contact me?
