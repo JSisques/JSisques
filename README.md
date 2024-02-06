@@ -1,22 +1,26 @@
-
 <img align="center" src="https://github.com/JSisques/JSisques/blob/main/Images/Banner%20RRSS.png"/>
 
 # 👋🏻 Javier Plaza Sisqués
+
 Hi I'm Javi, I'm a 24 years old and I'm from León (Spain). Since I remember I always had a computer under my arm and I've always been a technology enthusiast. I love learning new things and developing apps and programms to help other people around the world.
 
 <!-- ## 🚀 Projects -->
 
 ## 👨🏼‍🎓 What am I learning/studying now?
+
 I'm currently studying the second year of the degree in computer engineering at Universidad Europea. Apart of that I'm also taking a course of Docker at Udemy platform.
 
 ## 💻 What am I working on now?
+
 Nowadays I´m working at Supply Nexus company as a junior developer.
 
 ## 💻 What courses have I done?
+
 - IOS & Swift -> https://www.udemy.com/course/swift_ios/
-- Swift 5 -> https://www.udemy.com/course/curso-swift-jb/ 
+- Swift 5 -> https://www.udemy.com/course/curso-swift-jb/
 
 ## 🛠 Favourite tools
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=506ad4)
@@ -31,19 +35,22 @@ Nowadays I´m working at Supply Nexus company as a junior developer.
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=506ad4)
 
-
 ## 💻 My statistics
-<div align=”center”>
-  <img height = "200" src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=donut&theme=dark" />
-  <img height = "200" src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques"/>
+
+<div style="text-align:center">
+  <img width = "100%" src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=donut&theme=dark" />
+    <img width = "100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JSisques&theme=dark&layout=compact"/>
+</div>
+
+<div style="text-align:center">
+
 </div>
 
 ## 💬 How to contact me?
+
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/javier-plaza-sisqués-b79367172)
 - [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:javierplazasisques@gmail.com)
-
-
 
 <p align="center">
   <q>Technology is best when it brings people together.</q>
