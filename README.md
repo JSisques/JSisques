@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/JSisques/JSisques/blob/main/Images/Banner%20RRSS.png"/>
+<img align="center" src="https://github.com/JSisques/JSisques/blob/main/Images/Banner.png"/>
 
 # 👋🏻 Javier Plaza Sisqués
 
