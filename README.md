@@ -61,6 +61,11 @@ Estoy enfocado en proyectos personales relacionados con la inteligencia artifici
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
+</div>
+
+## 💻 ¡Mis lenguajes favoritos!
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=compact&theme=dark" />
 </div>
 
