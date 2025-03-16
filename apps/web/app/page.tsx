@@ -113,7 +113,7 @@ export default function Home() {
             asChild
             className="hidden md:flex bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff] hover:opacity-90 transition-opacity"
           >
-            <Link href="#contact">Let's Talk</Link>
+            <Link href="#contact">Lets Talk</Link>
           </Button>
 
           <button
@@ -164,7 +164,7 @@ export default function Home() {
                   className="mt-2 bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff] hover:opacity-90 transition-opacity"
                   onClick={() => setMobileMenuOpen(false)}
                 >
-                  <Link href="#contact">Let's Talk</Link>
+                  <Link href="#contact">Lets Talk</Link>
                 </Button>
               </div>
             </motion.div>
@@ -756,15 +756,15 @@ export default function Home() {
                 }}
               >
                 <h2 className="text-3xl md:text-5xl font-bold">
-                  Let's Create Something{" "}
+                  Lets Create Something{" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff]">
                     Amazing
                   </span>{" "}
                   Together
                 </h2>
                 <p className="text-white/70 text-lg">
-                  Have a project in mind? I'd love to hear about it. Let's
-                  discuss how we can work together to bring your vision to life.
+                  Have a project in mind? Id love to hear about it. Lets discuss
+                  how we can work together to bring your vision to life.
                 </p>
 
                 <div className="space-y-6 mt-8">
