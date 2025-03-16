@@ -1,84 +1,90 @@
-# Turborepo starter
+<img align="center" src="./docs/img/banner.png"/>
 
-This Turborepo starter is maintained by the Turborepo core team.
+# 👋🏻 ¡Hola, soy Javier Plaza Sisqués!
 
-## Using this example
+Soy Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) e Ingeniero Informático por la Universidad Europea de Madrid. Con 25 años y originario de León (España), soy apasionado por la tecnología desde joven, especialmente interesado en el desarrollo de aplicaciones y en el campo de la inteligencia artificial.
 
-Run the following command:
+## 🚀 Proyectos
 
-```sh
-npx create-turbo@latest
-```
+## 👨🏼‍🎓 ¿Qué estoy aprendiendo ahora?
 
-## What's inside?
+Actualmente estoy profundizando en el campo de la inteligencia artificial, explorando nuevas técnicas y aplicaciones en este ámbito fascinante.
 
-This Turborepo includes the following packages/apps:
+## 💻 ¿En qué estoy trabajando ahora?
 
-### Apps and Packages
+Estoy enfocado en proyectos personales relacionados con la inteligencia artificial y el desarrollo de aplicaciones innovadoras.
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+## 📚 Cursos realizados
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+- IOS & Swift -> https://www.udemy.com/course/swift_ios/
+- Swift 5 -> https://www.udemy.com/course/curso-swift-jb/
 
-### Utilities
+<!--## 🛠 Soft skills
 
-This Turborepo has some additional tools already setup for you:
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Gadget-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/Gadget-Raspberry_Pi-informational?style=flat&logo=Raspberrypi&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/OS-IOS-informational?style=flat&logo=Apple&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=Apple&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=506ad4)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=506ad4) -->
 
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+## 🛠 Habilidades técnicas
 
-### Build
+### Lenguajes de Programación
 
-To build all apps and packages, run the following command:
+- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=506ad4)
+- ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=506ad4)
+- ![Swift](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=506ad4)
+- ![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=506ad4)
 
-```
-cd my-turborepo
-pnpm build
-```
+### Herramientas y Tecnologías
 
-### Develop
+- Docker
+- MySQL
+- Firebase
+- Arduino
+- Raspberry Pi
+- Android
+- iOS
+- Xcode
+- Android Studio
+- Visual Studio Code
 
-To develop all apps and packages, run the following command:
+## 💻 Estadísticas de GitHub
 
-```
-cd my-turborepo
-pnpm dev
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JSisques&show_icons=true&theme=dark" />
+</div>
 
-### Remote Caching
+## 💻 ¡Mis lenguajes favoritos!
 
-> [!TIP]
-> Vercel Remote Cache is free for all plans. Get started today at [vercel.com](https://vercel.com/signup?/signup?utm_source=remote-cache-sdk&utm_campaign=free_remote_cache).
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSisques&show_icons=true&layout=compact&theme=dark" />
+</div>
 
-Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
+## 🏆 Trofeos de GitHub
 
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup?utm_source=turborepo-examples), then enter the following commands:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jsisques&theme=dark"/>
+</div>
 
-```
-cd my-turborepo
-npx turbo login
-```
+## 💬 ¿Cómo contactarme?
 
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
+- [LinkedIn](https://www.linkedin.com/in/javier-plaza-sisqués-b79367172)
+- [Correo electrónico](mailto:javierplazasisques@gmail.com)
+- [GitHub](https://github.com/JSisques)
 
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
+---
 
-```
-npx turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
-- [Caching](https://turbo.build/repo/docs/core-concepts/caching)
-- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
-- [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
-- [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
-- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+<p align="center">
+  <q>La tecnología es mejor cuando une a las personas.</q>
+  </br>
+  <cite>Matt Mullenweg</cite>
+</p>
