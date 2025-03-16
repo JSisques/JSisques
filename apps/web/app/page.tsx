@@ -425,7 +425,7 @@ export default function Home() {
                   </span>
                 </h2>
                 <p className="text-white/70 text-lg">
-                  With over a decade of experience in digital creation, I've
+                  With over a decade of experience in digital creation, Ive
                   honed my craft through continuous exploration and innovation.
                 </p>
 
