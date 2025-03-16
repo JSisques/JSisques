@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/JSisques/JSisques/blob/main/Images/Banner.png"/>
+<img align="center" src="./docs/img/banner.png"/>
 
 # 👋🏻 ¡Hola, soy Javier Plaza Sisqués!
 
@@ -88,4 +88,3 @@ Estoy enfocado en proyectos personales relacionados con la inteligencia artifici
   </br>
   <cite>Matt Mullenweg</cite>
 </p>
-
