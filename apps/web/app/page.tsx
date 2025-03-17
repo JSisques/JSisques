@@ -18,8 +18,10 @@ import {
   Send,
   ExternalLink,
 } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 export default function Home() {
+  const { t } = useTranslation();
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -220,7 +222,7 @@ export default function Home() {
                   <div className="flex gap-4">
                     {[Instagram, Twitter, Github, Linkedin].map(
                       (Icon, index) => (
-                        <div key={index} className="hover:bg-white/20">
+                        <div key={index}>
                           <Link href="#">
                             <motion.div
                               whileHover={{ y: -5 }}
@@ -341,7 +343,7 @@ export default function Home() {
               ].map((service, index) => (
                 <div
                   key={index}
-                  className="group hover:bg-white/10 hover:border-white/20"
+                  className="group hover:bg-white/10 hover:border-white/20 rounded-xl min-h-60"
                 >
                   <motion.div
                     variants={container}
@@ -363,6 +365,7 @@ export default function Home() {
                         padding: "2rem",
                         border: "1px solid rgba(255, 255, 255, 0.1)",
                         transition: "all 0.3s",
+                        minHeight: "15rem",
                       }}
                     >
                       <div className="text-4xl mb-4">{service.icon}</div>
@@ -886,7 +889,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="py-12 text-center text-white/50">
-        Copyright © 2024 - Designed &amp; Developed by Nova
+        {t("footer.copyright")}
       </footer>
     </div>
   );
