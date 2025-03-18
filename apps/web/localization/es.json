@@ -9,7 +9,8 @@
   },
   "hero": {
     "title": "Creando Experiencias",
-    "titleHighlight": "Digitales",
+    "titleHighlight1": "Experiencias",
+    "titleHighlight2": "Digitales",
     "description": "Transformando ideas en viajes digitales inmersivos que cautivan, involucran e inspiran acción.",
     "exploreWork": "Explora Mi Trabajo",
     "getInTouch": "Ponte en Contacto",
@@ -131,7 +132,7 @@
     "contactInfo": {
       "email": {
         "title": "Email",
-        "value": "contact@example.com"
+        "value": "javierplazasisques@gmail.com"
       },
       "availability": {
         "title": "Disponibilidad",
