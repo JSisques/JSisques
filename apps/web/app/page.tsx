@@ -259,13 +259,13 @@ export default function Home() {
                 }}
               >
                 <div className="absolute inset-0 bg-gradient-to-br from-[#ff4d4d]/20 to-[#4d79ff]/20 rounded-2xl transform rotate-6 transition-all duration-500 group-hover:from-[#ff4d4d]/30 group-hover:to-[#4d79ff]/30"></div>
-                {/* <Image
+                <Image
                   src="/placeholder.svg?height=600&width=600"
                   width={600}
                   height={600}
                   alt="Digital Creator"
                   className="relative z-10 rounded-2xl object-cover transform -rotate-6 border-4 border-white/10 transition-all duration-500 group-hover:scale-105 group-hover:border-white/20"
-                /> */}
+                />
                 <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-gradient-to-br from-[#ff4d4d] to-[#4d79ff] rounded-full blur-[60px] transition-all duration-500 group-hover:w-48 group-hover:h-48"></div>
               </motion.div>
             </div>
