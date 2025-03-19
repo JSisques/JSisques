@@ -18,8 +18,10 @@ import {
   Send,
   ExternalLink,
 } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 export default function Home() {
+  const { t } = useTranslation();
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -82,18 +84,18 @@ export default function Home() {
         <div className="container mx-auto px-4 flex justify-between items-center">
           <Link href="/" className="flex items-center gap-2">
             <div className="w-10 h-10 bg-gradient-to-br from-[#ff4d4d] to-[#4d79ff] rounded-lg flex items-center justify-center">
-              <span className="font-bold text-xl">N</span>
+              <span className="font-bold text-xl">JS</span>
             </div>
-            <span className="font-bold text-xl">NOVA</span>
+            <span className="font-bold text-xl">JSisques</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
             {[
-              "Home",
-              "What I Create",
-              "My Journey",
-              "Latest Work",
-              "Contact",
+              t("navigation.home"),
+              t("navigation.whatICreate"),
+              t("navigation.myJourney"),
+              t("navigation.latestWork"),
+              t("navigation.contact"),
             ].map((item) => (
               <Link
                 key={item}
@@ -113,7 +115,7 @@ export default function Home() {
             asChild
             className="hidden md:flex bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff] hover:opacity-90 transition-opacity"
           >
-            <Link href="#contact">Lets Talk</Link>
+            <Link href="#contact">{t("navigation.letsTalk")}</Link>
           </Button>
 
           <button
@@ -164,7 +166,7 @@ export default function Home() {
                   className="mt-2 bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff] hover:opacity-90 transition-opacity"
                   onClick={() => setMobileMenuOpen(false)}
                 >
-                  <Link href="#contact">Lets Talk</Link>
+                  <Link href="#contact">{t("navigation.letsTalk")}</Link>
                 </Button>
               </div>
             </motion.div>
@@ -195,12 +197,11 @@ export default function Home() {
                   Experiences
                 </h1>
                 <p className="text-lg text-white/70 max-w-lg">
-                  Transforming ideas into immersive digital journeys that
-                  captivate, engage, and inspire action.
+                  {t("hero.description")}
                 </p>
                 <div className="flex flex-wrap gap-4">
                   <Button className="bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff] hover:opacity-90 transition-opacity text-white px-8 py-6">
-                    Explore My Work
+                    {t("hero.exploreWork")}
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </Button>
                   {/* 4. Enhance white button styling for better visibility */}
@@ -211,16 +212,18 @@ export default function Home() {
                     variant="outline"
                     className="border-white hover:border-white/80 bg-white/10 hover:bg-white/20 text-white px-8 py-6 transition-all duration-300"
                   >
-                    <Link href="#contact">Get in Touch</Link>
+                    <Link href="#contact">{t("hero.getInTouch")}</Link>
                   </Button>
                 </div>
                 <div className="pt-8 flex items-center gap-4">
-                  <span className="text-sm text-white/50">Follow me on</span>
+                  <span className="text-sm text-white/50">
+                    {t("hero.followMe")}
+                  </span>
                   <div className="h-px w-12 bg-white/20"></div>
                   <div className="flex gap-4">
                     {[Instagram, Twitter, Github, Linkedin].map(
                       (Icon, index) => (
-                        <div key={index} className="hover:bg-white/20">
+                        <div key={index}>
                           <Link href="#">
                             <motion.div
                               whileHover={{ y: -5 }}
@@ -289,14 +292,13 @@ export default function Home() {
               }}
             >
               <h2 className="text-3xl md:text-5xl font-bold">
-                Transforming Ideas into{" "}
+                {t("whatICreate.title")}{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff]">
-                  Digital Reality
+                  {t("whatICreate.titleHighlight")}
                 </span>
               </h2>
               <p className="text-white/70 text-lg">
-                I specialize in creating immersive digital experiences that
-                connect brands with their audience.
+                {t("whatICreate.description")}
               </p>
             </motion.div>
 
@@ -341,7 +343,7 @@ export default function Home() {
               ].map((service, index) => (
                 <div
                   key={index}
-                  className="group hover:bg-white/10 hover:border-white/20"
+                  className="group hover:bg-white/10 hover:border-white/20 rounded-xl min-h-60"
                 >
                   <motion.div
                     variants={container}
@@ -363,6 +365,7 @@ export default function Home() {
                         padding: "2rem",
                         border: "1px solid rgba(255, 255, 255, 0.1)",
                         transition: "all 0.3s",
+                        minHeight: "15rem",
                       }}
                     >
                       <div className="text-4xl mb-4">{service.icon}</div>
@@ -419,14 +422,13 @@ export default function Home() {
                 }}
               >
                 <h2 className="text-3xl md:text-5xl font-bold">
-                  The Story Behind the{" "}
+                  {t("myJourney.title")}{" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff]">
-                    Creation
+                    {t("myJourney.titleHighlight")}
                   </span>
                 </h2>
                 <p className="text-white/70 text-lg">
-                  With over a decade of experience in digital creation, Ive
-                  honed my craft through continuous exploration and innovation.
+                  {t("myJourney.description")}
                 </p>
 
                 <div className="space-y-6 mt-8">
@@ -480,7 +482,7 @@ export default function Home() {
                   className="mt-4 bg-white/10 hover:bg-white/20 text-white border border-white/20 hover:border-white/40 transition-all duration-300"
                 >
                   <Link href="#my-journey">
-                    Full Journey
+                    {t("myJourney.fullJourney")}
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -508,14 +510,13 @@ export default function Home() {
               }}
             >
               <h2 className="text-3xl md:text-5xl font-bold">
-                Featured{" "}
+                {t("latestWork.title")}{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff]">
-                  Projects
+                  {t("latestWork.titleHighlight")}
                 </span>
               </h2>
               <p className="text-white/70 text-lg">
-                Explore a selection of my recent work showcasing creativity,
-                innovation, and technical expertise.
+                {t("latestWork.description")}
               </p>
             </motion.div>
 
@@ -593,7 +594,7 @@ export default function Home() {
                         className="border-white/20 hover:border-white/60 bg-white/10 hover:bg-white/20 text-white transition-all duration-300"
                       >
                         <Link href="#latest-work">
-                          View Project
+                          {t("latestWork.viewProject")}
                           <ExternalLink className="ml-2 h-4 w-4" />
                         </Link>
                       </Button>
@@ -612,7 +613,7 @@ export default function Home() {
                 className="bg-white/10 hover:bg-white/20 text-white px-8 border border-white/20 hover:border-white/40 transition-all duration-300"
               >
                 <Link href="#latest-work">
-                  View All Projects
+                  {t("latestWork.viewAllProjects")}
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
@@ -639,14 +640,13 @@ export default function Home() {
               }}
             >
               <h2 className="text-3xl md:text-5xl font-bold">
-                How I Bring{" "}
+                {t("myProcess.title")}{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff]">
-                  Ideas to Life
+                  {t("myProcess.titleHighlight")}
                 </span>
               </h2>
               <p className="text-white/70 text-lg">
-                A structured yet flexible approach to creating meaningful
-                digital experiences.
+                {t("myProcess.description")}
               </p>
             </motion.div>
 
@@ -756,15 +756,14 @@ export default function Home() {
                 }}
               >
                 <h2 className="text-3xl md:text-5xl font-bold">
-                  Lets Create Something{" "}
+                  {t("contact.title")}{" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff]">
-                    Amazing
+                    {t("contact.titleHighlight")}
                   </span>{" "}
-                  Together
+                  {t("contact.titleEnd")}
                 </h2>
                 <p className="text-white/70 text-lg">
-                  Have a project in mind? Id love to hear about it. Lets discuss
-                  how we can work together to bring your vision to life.
+                  {t("contact.description")}
                 </p>
 
                 <div className="space-y-6 mt-8">
@@ -785,8 +784,12 @@ export default function Home() {
                       </svg>
                     </div>
                     <div>
-                      <h3 className="font-bold">Email</h3>
-                      <p className="text-white/70">contact@example.com</p>
+                      <h3 className="font-bold">
+                        {t("contact.contactInfo.email.title")}
+                      </h3>
+                      <p className="text-white/70">
+                        {t("contact.contactInfo.email.value")}
+                      </p>
                     </div>
                   </div>
 
@@ -808,9 +811,11 @@ export default function Home() {
                       </svg>
                     </div>
                     <div>
-                      <h3 className="font-bold">Availability</h3>
+                      <h3 className="font-bold">
+                        {t("contact.contactInfo.availability.title")}
+                      </h3>
                       <p className="text-white/70">
-                        Monday - Friday, 9am - 5pm
+                        {t("contact.contactInfo.availability.value")}
                       </p>
                     </div>
                   </div>
@@ -829,14 +834,16 @@ export default function Home() {
                   padding: "2rem",
                 }}
               >
-                <h3 className="text-xl font-bold mb-6">Send me a message</h3>
+                <h3 className="text-xl font-bold mb-6">
+                  {t("contact.form.title")}
+                </h3>
                 <form className="space-y-4">
                   <div>
                     <label
                       htmlFor="name"
                       className="block text-sm font-medium text-white/80"
                     >
-                      Your Name
+                      {t("contact.form.name.title")}
                     </label>
                     <Input
                       type="text"
@@ -850,7 +857,7 @@ export default function Home() {
                       htmlFor="email"
                       className="block text-sm font-medium text-white/80"
                     >
-                      Your Email
+                      {t("contact.form.email.title")}
                     </label>
                     <Input
                       type="email"
@@ -864,17 +871,17 @@ export default function Home() {
                       htmlFor="message"
                       className="block text-sm font-medium text-white/80"
                     >
-                      Your Message
+                      {t("contact.form.message.title")}
                     </label>
                     <Textarea
                       id="message"
                       rows={4}
                       className="mt-1 block w-full rounded-md bg-white/5 border-none text-white focus:ring-2 focus:ring-[#4d79ff]"
-                      placeholder="Tell me about your project..."
+                      placeholder={t("contact.form.message.placeholder")}
                     />
                   </div>
                   <Button className="w-full bg-gradient-to-r from-[#ff4d4d] to-[#4d79ff] hover:opacity-90 transition-opacity">
-                    Send Message
+                    {t("contact.form.send")}
                     <Send className="ml-2 h-4 w-4" />
                   </Button>
                 </form>
@@ -886,7 +893,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="py-12 text-center text-white/50">
-        Copyright © 2024 - Designed &amp; Developed by Nova
+        {t("footer.copyright")}
       </footer>
     </div>
   );

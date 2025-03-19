@@ -1,0 +1,162 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "whatICreate": "Lo que Creo",
+    "myJourney": "Mi Trayectoria",
+    "latestWork": "Últimos Trabajos",
+    "contact": "Contacto",
+    "letsTalk": "Hablemos"
+  },
+  "hero": {
+    "title": "Creando Experiencias",
+    "titleHighlight1": "Experiencias",
+    "titleHighlight2": "Digitales",
+    "description": "Transformando ideas en viajes digitales inmersivos que cautivan, involucran e inspiran acción.",
+    "exploreWork": "Explora Mi Trabajo",
+    "getInTouch": "Ponte en Contacto",
+    "followMe": "Sígueme en"
+  },
+  "whatICreate": {
+    "title": "Transformando Ideas en",
+    "titleHighlight": "Realidad Digital",
+    "description": "Me especializo en crear experiencias digitales inmersivas que conectan marcas con su audiencia.",
+    "services": {
+      "immersiveWebsites": {
+        "title": "Sitios Web Inmersivos",
+        "description": "Creando sitios web responsivos e interactivos que cautivan a los usuarios y fomentan el engagement."
+      },
+      "digitalExperiences": {
+        "title": "Experiencias Digitales",
+        "description": "Creando viajes digitales memorables que cuentan la historia de tu marca de manera innovadora."
+      },
+      "interactiveApplications": {
+        "title": "Aplicaciones Interactivas",
+        "description": "Desarrollando aplicaciones intuitivas que resuelven problemas y mejoran la experiencia del usuario."
+      },
+      "brandIdentity": {
+        "title": "Identidad de Marca",
+        "description": "Diseñando identidades visuales cohesivas que comunican la personalidad única de tu marca."
+      },
+      "motionDesign": {
+        "title": "Diseño de Movimiento",
+        "description": "Dando vida a diseños estáticos con animaciones fluidas e interacciones significativas."
+      },
+      "digitalStrategy": {
+        "title": "Estrategia Digital",
+        "description": "Desarrollando estrategias digitales integrales que se alinean con tus objetivos empresariales."
+      }
+    }
+  },
+  "myJourney": {
+    "title": "La Historia Detrás de la",
+    "titleHighlight": "Creación",
+    "description": "Con más de una década de experiencia en creación digital, he perfeccionado mi oficio a través de la exploración continua y la innovación.",
+    "milestones": {
+      "2023": {
+        "title": "Evolución de la Experiencia Digital",
+        "description": "Pionero en nuevos enfoques para la narración interactiva y experiencias web inmersivas."
+      },
+      "2020": {
+        "title": "Lanzamiento del Estudio Creativo",
+        "description": "Fundé un estudio creativo centrado en la innovación digital y la transformación de marcas."
+      },
+      "2017": {
+        "title": "Reconocimiento Internacional",
+        "description": "Recibí múltiples premios por proyectos digitales innovadores y diseños revolucionarios."
+      }
+    },
+    "fullJourney": "Trayectoria Completa"
+  },
+  "latestWork": {
+    "title": "Proyectos",
+    "titleHighlight": "Destacados",
+    "description": "Explora una selección de mis trabajos recientes que muestran creatividad, innovación y experiencia técnica.",
+    "projects": {
+      "immersiveBrand": {
+        "title": "Experiencia de Marca Inmersiva",
+        "category": "Experiencia Digital"
+      },
+      "ecommerce": {
+        "title": "E-Commerce Reimaginado",
+        "category": "Desarrollo Web"
+      },
+      "interactiveShowcase": {
+        "title": "Escaparate Interactivo de Productos",
+        "category": "Diseño Interactivo"
+      },
+      "brandEvolution": {
+        "title": "Evolución de Identidad de Marca",
+        "category": "Diseño de Marca"
+      }
+    },
+    "viewProject": "Ver Proyecto",
+    "viewAllProjects": "Ver Todos los Proyectos"
+  },
+  "myProcess": {
+    "title": "Cómo Doy Vida a las",
+    "titleHighlight": "Ideas",
+    "description": "Un enfoque estructurado pero flexible para crear experiencias digitales significativas.",
+    "steps": {
+      "discovery": {
+        "number": "01",
+        "title": "Descubrimiento",
+        "description": "Entendiendo tu visión, objetivos y audiencia para establecer una base sólida para el proyecto."
+      },
+      "strategy": {
+        "number": "02",
+        "title": "Estrategia",
+        "description": "Desarrollando un plan integral que se alinea con tus objetivos y maximiza el impacto."
+      },
+      "creation": {
+        "number": "03",
+        "title": "Creación",
+        "description": "Dando vida a las ideas a través de diseño innovador, desarrollo y creación de contenido."
+      },
+      "refinement": {
+        "number": "04",
+        "title": "Refinamiento",
+        "description": "Iterando y perfeccionando cada detalle para asegurar un producto final excepcional."
+      },
+      "launch": {
+        "number": "05",
+        "title": "Lanzamiento",
+        "description": "Desplegando tu proyecto con precisión y proporcionando soporte continuo para el éxito continuo."
+      }
+    }
+  },
+  "contact": {
+    "title": "Creemos Algo",
+    "titleHighlight": "Increíble",
+    "titleEnd": "Juntos",
+    "description": "¿Tienes un proyecto en mente? Me encantaría escucharlo. Hablemos de cómo podemos trabajar juntos para dar vida a tu visión.",
+    "contactInfo": {
+      "email": {
+        "title": "Email",
+        "value": "javierplazasisques@gmail.com"
+      },
+      "availability": {
+        "title": "Disponibilidad",
+        "value": "Lunes - Viernes, 9am - 5pm"
+      }
+    },
+    "form": {
+      "title": "Envíame un mensaje",
+      "name": {
+        "label": "Tu Nombre",
+        "placeholder": "John Doe"
+      },
+      "email": {
+        "label": "Tu Email",
+        "placeholder": "john@example.com"
+      },
+      "message": {
+        "label": "Tu Mensaje",
+        "placeholder": "Cuéntame sobre tu proyecto..."
+      },
+      "send": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2025 - Diseñado y Desarrollado con 🖤 por JSisques"
+  }
+}

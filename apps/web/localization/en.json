@@ -1,0 +1,161 @@
+{
+  "navigation": {
+    "home": "Home",
+    "whatICreate": "What I Create",
+    "myJourney": "My Journey",
+    "latestWork": "Latest Work",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk"
+  },
+  "hero": {
+    "title": "Crafting",
+    "titleHighlight": "Digital",
+    "description": "Transforming ideas into immersive digital journeys that captivate, engage, and inspire action.",
+    "exploreWork": "Explore My Work",
+    "getInTouch": "Get in Touch",
+    "followMe": "Follow me on"
+  },
+  "whatICreate": {
+    "title": "Transforming Ideas into",
+    "titleHighlight": "Digital Reality",
+    "description": "I specialize in creating immersive digital experiences that connect brands with their audience.",
+    "services": {
+      "immersiveWebsites": {
+        "title": "Immersive Websites",
+        "description": "Crafting responsive, interactive websites that captivate users and drive engagement."
+      },
+      "digitalExperiences": {
+        "title": "Digital Experiences",
+        "description": "Creating memorable digital journeys that tell your brand's story in innovative ways."
+      },
+      "interactiveApplications": {
+        "title": "Interactive Applications",
+        "description": "Developing intuitive applications that solve problems and enhance user experience."
+      },
+      "brandIdentity": {
+        "title": "Brand Identity",
+        "description": "Designing cohesive visual identities that communicate your brand's unique personality."
+      },
+      "motionDesign": {
+        "title": "Motion Design",
+        "description": "Bringing static designs to life with fluid animations and meaningful interactions."
+      },
+      "digitalStrategy": {
+        "title": "Digital Strategy",
+        "description": "Developing comprehensive digital strategies that align with your business objectives."
+      }
+    }
+  },
+  "myJourney": {
+    "title": "The Story Behind the",
+    "titleHighlight": "Creation",
+    "description": "With over a decade of experience in digital creation, I've honed my craft through continuous exploration and innovation.",
+    "milestones": {
+      "2023": {
+        "title": "Digital Experience Evolution",
+        "description": "Pioneered new approaches to interactive storytelling and immersive web experiences."
+      },
+      "2020": {
+        "title": "Creative Studio Launch",
+        "description": "Founded a creative studio focused on digital innovation and brand transformation."
+      },
+      "2017": {
+        "title": "International Recognition",
+        "description": "Received multiple awards for groundbreaking digital projects and innovative designs."
+      }
+    },
+    "fullJourney": "Full Journey"
+  },
+  "latestWork": {
+    "title": "Featured",
+    "titleHighlight": "Projects",
+    "description": "Explore a selection of my recent work showcasing creativity, innovation, and technical expertise.",
+    "projects": {
+      "immersiveBrand": {
+        "title": "Immersive Brand Experience",
+        "category": "Digital Experience"
+      },
+      "ecommerce": {
+        "title": "E-Commerce Reimagined",
+        "category": "Web Development"
+      },
+      "interactiveShowcase": {
+        "title": "Interactive Product Showcase",
+        "category": "Interactive Design"
+      },
+      "brandEvolution": {
+        "title": "Brand Identity Evolution",
+        "category": "Brand Design"
+      }
+    },
+    "viewProject": "View Project",
+    "viewAllProjects": "View All Projects"
+  },
+  "myProcess": {
+    "title": "How I Bring",
+    "titleHighlight": "Ideas to Life",
+    "description": "A structured yet flexible approach to creating meaningful digital experiences.",
+    "steps": {
+      "discovery": {
+        "number": "01",
+        "title": "Discovery",
+        "description": "Understanding your vision, goals, and audience to establish a solid foundation for the project."
+      },
+      "strategy": {
+        "number": "02",
+        "title": "Strategy",
+        "description": "Developing a comprehensive plan that aligns with your objectives and maximizes impact."
+      },
+      "creation": {
+        "number": "03",
+        "title": "Creation",
+        "description": "Bringing ideas to life through innovative design, development, and content creation."
+      },
+      "refinement": {
+        "number": "04",
+        "title": "Refinement",
+        "description": "Iterating and perfecting every detail to ensure an exceptional final product."
+      },
+      "launch": {
+        "number": "05",
+        "title": "Launch",
+        "description": "Deploying your project with precision and providing ongoing support for continued success."
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's Create Something",
+    "titleHighlight": "Amazing",
+    "titleEnd": "Together",
+    "description": "Have a project in mind? I'd love to hear about it. Let's discuss how we can work together to bring your vision to life.",
+    "contactInfo": {
+      "email": {
+        "title": "Email",
+        "value": "contact@example.com"
+      },
+      "availability": {
+        "title": "Availability",
+        "value": "Monday - Friday, 9am - 5pm"
+      }
+    },
+    "form": {
+      "title": "Send me a message",
+      "name": {
+        "label": "Your Name",
+        "placeholder": "John Doe"
+      },
+      "email": {
+        "label": "Your Email",
+        "placeholder": "john@example.com"
+      },
+      "message": {
+        "label": "Your Message",
+        "placeholder": "Tell me about your project..."
+      },
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 - Designed & Developed by Nova"
+  }
+}
